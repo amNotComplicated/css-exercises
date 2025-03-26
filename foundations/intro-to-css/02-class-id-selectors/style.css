@@ -1,10 +1,6 @@
-* {
-  font-family: DejaVu Sans, sans-serif;
-}
-
 .class {
   background-color: #ebbfbf;
-  font-family: Verdana, sans-serif;
+  font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .cooler {
